@@ -1,0 +1,645 @@
+Array
+(
+    [company] => Array
+        (
+            [value] => ООО "ДЕЙТА КЬЮ"
+            [unrestricted_value] => ООО "ДЕЙТА КЬЮ"
+            [data] => Array
+                (
+                    [kpp] => 770401001
+                    [capital] =>
+                    [management] => Array
+                        (
+                            [name] => Журавлев Дмитрий Сергеевич
+                            [post] => Генеральный директор
+                            [disqualified] =>
+                        )
+
+                    [founders] =>
+                    [managers] =>
+                    [predecessors] =>
+                    [successors] =>
+                    [branch_type] => MAIN
+                    [branch_count] => 0
+                    [source] =>
+                    [qc] =>
+                    [hid] => 0e92bf9a43e6560c05b83572d83cc32af70074f242b7e880bf2ebaeab30f5a34
+                    [type] => LEGAL
+                    [state] => Array
+                        (
+                            [status] => ACTIVE
+                            [code] =>
+                            [actuality_date] => 1576713600000
+                            [registration_date] => 1174262400000
+                            [liquidation_date] =>
+                        )
+
+                    [opf] => Array
+                        (
+                            [type] => 2014
+                            [code] => 12300
+                            [full] => Общество с ограниченной ответственностью
+                            [short] => ООО
+                        )
+
+                    [name] => Array
+                        (
+                            [full_with_opf] => ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ДЕЙТА КЬЮ"
+                            [short_with_opf] => ООО "ДЕЙТА КЬЮ"
+                            [latin] =>
+                            [full] => ДЕЙТА КЬЮ
+                            [short] => ДЕЙТА КЬЮ
+                        )
+
+                    [inn] => 7721581040
+                    [ogrn] => 5077746329876
+                    [okpo] => 99662114
+                    [okato] => 45286590000
+                    [oktmo] => 45383000000
+                    [okogu] => 4210014
+                    [okfs] => 16
+                    [okved] => 63.11
+                    [okveds] =>
+                    [authorities] =>
+                    [documents] =>
+                    [licenses] =>
+                    [finance] => Array
+                        (
+                            [tax_system] =>
+                            [income] =>
+                            [expense] =>
+                            [debt] =>
+                            [penalty] =>
+                            [year] =>
+                        )
+
+                    [address] => Array
+                        (
+                            [value] => г Москва, Турчанинов пер, д 6 стр 2, пом I комн 9/11
+                            [unrestricted_value] => 119034, г Москва, р-н Хамовники, Турчанинов пер, д 6 стр 2, пом I комн 9/11
+                            [data] => Array
+                                (
+                                    [postal_code] => 119034
+                                    [country] => Россия
+                                    [country_iso_code] => RU
+                                    [federal_district] => Центральный
+                                    [region_fias_id] => 0c5b2444-70a0-4932-980c-b4dc0d3f02b5
+                                    [region_kladr_id] => 7700000000000
+                                    [region_iso_code] => RU-MOW
+                                    [region_with_type] => г Москва
+                                    [region_type] => г
+                                    [region_type_full] => город
+                                    [region] => Москва
+                                    [area_fias_id] =>
+                                    [area_kladr_id] =>
+                                    [area_with_type] =>
+                                    [area_type] =>
+                                    [area_type_full] =>
+                                    [area] =>
+                                    [city_fias_id] => 0c5b2444-70a0-4932-980c-b4dc0d3f02b5
+                                    [city_kladr_id] => 7700000000000
+                                    [city_with_type] => г Москва
+                                    [city_type] => г
+                                    [city_type_full] => город
+                                    [city] => Москва
+                                    [city_area] => Центральный
+                                    [city_district_fias_id] =>
+                                    [city_district_kladr_id] =>
+                                    [city_district_with_type] => р-н Хамовники
+                                    [city_district_type] => р-н
+                                    [city_district_type_full] => район
+                                    [city_district] => Хамовники
+                                    [settlement_fias_id] =>
+                                    [settlement_kladr_id] =>
+                                    [settlement_with_type] =>
+                                    [settlement_type] =>
+                                    [settlement_type_full] =>
+                                    [settlement] =>
+                                    [street_fias_id] => 0f7981e6-65c6-4513-b771-f5db3bfafe60
+                                    [street_kladr_id] => 77000000000714800
+                                    [street_with_type] => Турчанинов пер
+                                    [street_type] => пер
+                                    [street_type_full] => переулок
+                                    [street] => Турчанинов
+                                    [house_fias_id] => 8c925e61-9173-48b3-999e-dc85c86d89e7
+                                    [house_kladr_id] => 7700000000071480009
+                                    [house_cadnum] =>
+                                    [house_type] => д
+                                    [house_type_full] => дом
+                                    [house] => 6
+                                    [block_type] => стр
+                                    [block_type_full] => строение
+                                    [block] => 2
+                                    [entrance] =>
+                                    [floor] => 1
+                                    [flat_fias_id] =>
+                                    [flat_cadnum] =>
+                                    [flat_type] => пом
+                                    [flat_type_full] => помещение
+                                    [flat] => I комн 9/11
+                                    [flat_area] =>
+                                    [square_meter_price] =>
+                                    [flat_price] =>
+                                    [postal_box] =>
+                                    [fias_id] => 8c925e61-9173-48b3-999e-dc85c86d89e7
+                                    [fias_code] => 77000000000000071480009
+                                    [fias_level] => 8
+                                    [fias_actuality_state] => 0
+                                    [kladr_id] => 7700000000071480009
+                                    [geoname_id] => 524901
+                                    [capital_marker] => 0
+                                    [okato] => 45286590000
+                                    [oktmo] => 45383000
+                                    [tax_office] => 7704
+                                    [tax_office_legal] => 7704
+                                    [timezone] => UTC+3
+                                    [geo_lat] => 55.7372795
+                                    [geo_lon] => 37.5971189
+                                    [beltway_hit] => IN_MKAD
+                                    [beltway_distance] =>
+                                    [metro] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [name] => Парк культуры
+                                                    [line] => Сокольническая
+                                                    [distance] => 0.2
+                                                )
+
+                                            [1] => Array
+                                                (
+                                                    [name] => Парк культуры
+                                                    [line] => Кольцевая
+                                                    [distance] => 0.3
+                                                )
+
+                                            [2] => Array
+                                                (
+                                                    [name] => Кропоткинская
+                                                    [line] => Сокольническая
+                                                    [distance] => 1
+                                                )
+
+                                        )
+
+                                    [qc_geo] => 0
+                                    [qc_complete] =>
+                                    [qc_house] =>
+                                    [history_values] =>
+                                    [unparsed_parts] =>
+                                    [source] => 119034, ГОРОД МОСКВА, ПЕРЕУЛОК ТУРЧАНИНОВ, ДОМ 6, СТРОЕНИЕ 2, ПОМЕЩЕНИЕ I, КОМН. 9,11 ЭТ. 1
+                                    [qc] => 0
+                                )
+
+                        )
+
+                    [phones] =>
+                    [emails] =>
+                    [ogrn_date] => 1174262400000
+                    [okved_type] => 2014
+                    [employee_count] =>
+                )
+
+        )
+
+    [bank] => Array
+        (
+            [value] => ПАО Сбербанк
+            [unrestricted_value] => ПАО Сбербанк
+            [data] => Array
+                (
+                    [opf] => Array
+                        (
+                            [type] => BANK
+                            [full] =>
+                            [short] =>
+                        )
+
+                    [name] => Array
+                        (
+                            [payment] => ПАО СБЕРБАНК
+                            [full] =>
+                            [short] => ПАО Сбербанк
+                        )
+
+                    [bic] => 044525225
+                    [swift] => SABRRUMM012
+                    [inn] => 7707083893
+                    [kpp] => 773601001
+                    [okpo] =>
+                    [correspondent_account] => 30101810400000000225
+                    [treasury_accounts] =>
+                    [registration_number] => 1481
+                    [payment_city] => г Москва
+                    [state] => Array
+                        (
+                            [status] => ACTIVE
+                            [code] =>
+                            [actuality_date] => 1624665600000
+                            [registration_date] => 677376000000
+                            [liquidation_date] =>
+                        )
+
+                    [rkc] =>
+                    [cbr] => Array
+                        (
+                            [opf] => Array
+                                (
+                                    [type] => CBR
+                                    [full] =>
+                                    [short] =>
+                                )
+
+                            [name] => Array
+                                (
+                                    [payment] => ГУ БАНКА РОССИИ ПО ЦФО
+                                    [full] =>
+                                    [short] =>
+                                )
+
+                            [bic] => 044525000
+                            [swift] =>
+                            [inn] =>
+                            [kpp] =>
+                            [okpo] =>
+                            [correspondent_account] =>
+                            [treasury_accounts] =>
+                            [registration_number] =>
+                            [payment_city] => г Москва 35
+                            [state] => Array
+                                (
+                                    [status] => ACTIVE
+                                    [code] =>
+                                    [actuality_date] => 1624665600000
+                                    [registration_date] =>
+                                    [liquidation_date] =>
+                                )
+
+                            [rkc] =>
+                            [cbr] =>
+                            [address] => Array
+                                (
+                                    [value] => 115035, г Москва 35, ул Балчуг, 2
+                                    [unrestricted_value] => 115035, г Москва 35, ул Балчуг, 2
+                                    [data] =>
+                                )
+
+                            [phones] =>
+                        )
+
+                    [address] => Array
+                        (
+                            [value] => г Москва, ул Вавилова, д 19
+                            [unrestricted_value] => 117312, г Москва, Академический р-н, ул Вавилова, д 19
+                            [data] => Array
+                                (
+                                    [postal_code] => 117312
+                                    [country] => Россия
+                                    [country_iso_code] => RU
+                                    [federal_district] => Центральный
+                                    [region_fias_id] => 0c5b2444-70a0-4932-980c-b4dc0d3f02b5
+                                    [region_kladr_id] => 7700000000000
+                                    [region_iso_code] => RU-MOW
+                                    [region_with_type] => г Москва
+                                    [region_type] => г
+                                    [region_type_full] => город
+                                    [region] => Москва
+                                    [area_fias_id] =>
+                                    [area_kladr_id] =>
+                                    [area_with_type] =>
+                                    [area_type] =>
+                                    [area_type_full] =>
+                                    [area] =>
+                                    [city_fias_id] => 0c5b2444-70a0-4932-980c-b4dc0d3f02b5
+                                    [city_kladr_id] => 7700000000000
+                                    [city_with_type] => г Москва
+                                    [city_type] => г
+                                    [city_type_full] => город
+                                    [city] => Москва
+                                    [city_area] => Юго-западный
+                                    [city_district_fias_id] =>
+                                    [city_district_kladr_id] =>
+                                    [city_district_with_type] => Академический р-н
+                                    [city_district_type] => р-н
+                                    [city_district_type_full] => район
+                                    [city_district] => Академический
+                                    [settlement_fias_id] =>
+                                    [settlement_kladr_id] =>
+                                    [settlement_with_type] =>
+                                    [settlement_type] =>
+                                    [settlement_type_full] =>
+                                    [settlement] =>
+                                    [street_fias_id] => 25f8f29b-b110-40ab-a48e-9c72f5fb4331
+                                    [street_kladr_id] => 77000000000092400
+                                    [street_with_type] => ул Вавилова
+                                    [street_type] => ул
+                                    [street_type_full] => улица
+                                    [street] => Вавилова
+                                    [house_fias_id] => 93409d8c-d8d4-4491-838f-f9aa1678b5e6
+                                    [house_kladr_id] => 7700000000009240170
+                                    [house_cadnum] =>
+                                    [house_type] => д
+                                    [house_type_full] => дом
+                                    [house] => 19
+                                    [block_type] =>
+                                    [block_type_full] =>
+                                    [block] =>
+                                    [entrance] =>
+                                    [floor] =>
+                                    [flat_fias_id] =>
+                                    [flat_cadnum] =>
+                                    [flat_type] =>
+                                    [flat_type_full] =>
+                                    [flat] =>
+                                    [flat_area] =>
+                                    [square_meter_price] =>
+                                    [flat_price] =>
+                                    [postal_box] =>
+                                    [fias_id] => 93409d8c-d8d4-4491-838f-f9aa1678b5e6
+                                    [fias_code] => 77000000000000009240170
+                                    [fias_level] => 8
+                                    [fias_actuality_state] => 0
+                                    [kladr_id] => 7700000000009240170
+                                    [geoname_id] => 524901
+                                    [capital_marker] => 0
+                                    [okato] => 45293554000
+                                    [oktmo] => 45397000
+                                    [tax_office] => 7736
+                                    [tax_office_legal] => 7736
+                                    [timezone] => UTC+3
+                                    [geo_lat] => 55.7001865
+                                    [geo_lon] => 37.5802234
+                                    [beltway_hit] => IN_MKAD
+                                    [beltway_distance] =>
+                                    [metro] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [name] => Ленинский проспект
+                                                    [line] => Калужско-Рижская
+                                                    [distance] => 0.8
+                                                )
+
+                                            [1] => Array
+                                                (
+                                                    [name] => Площадь Гагарина
+                                                    [line] => МЦК
+                                                    [distance] => 0.8
+                                                )
+
+                                            [2] => Array
+                                                (
+                                                    [name] => Академическая
+                                                    [line] => Калужско-Рижская
+                                                    [distance] => 1.5
+                                                )
+
+                                        )
+
+                                    [qc_geo] => 0
+                                    [qc_complete] => 5
+                                    [qc_house] => 2
+                                    [history_values] =>
+                                    [unparsed_parts] =>
+                                    [source] => 117997, г Москва, ул Вавилова, 19
+                                    [qc] => 0
+                                )
+
+                        )
+
+                    [phones] =>
+                )
+
+        )
+
+    [address] => Array
+        (
+            [0] => Array
+                (
+                    [value] => г Москва, ул 1-я Тверская-Ямская
+                    [unrestricted_value] => г Москва, ул 1-я Тверская-Ямская
+                    [data] => Array
+                        (
+                            [postal_code] =>
+                            [region_fias_id] => 0c5b2444-70a0-4932-980c-b4dc0d3f02b5
+                            [region_kladr_id] => 7700000000000
+                            [region_with_type] => г Москва
+                            [region_type] => г
+                            [region_type_full] => город
+                            [region] => Москва
+                            [area_fias_id] =>
+                            [area_kladr_id] =>
+                            [area_with_type] =>
+                            [area_type] =>
+                            [area_type_full] =>
+                            [area] =>
+                            [city_fias_id] =>
+                            [city_kladr_id] =>
+                            [city_with_type] =>
+                            [city_type] =>
+                            [city_type_full] =>
+                            [city] =>
+                            [city_district_fias_id] =>
+                            [city_district_kladr_id] =>
+                            [city_district_with_type] =>
+                            [city_district_type] =>
+                            [city_district_type_full] =>
+                            [city_district] =>
+                            [settlement_fias_id] =>
+                            [settlement_kladr_id] =>
+                            [settlement_with_type] =>
+                            [settlement_type] =>
+                            [settlement_type_full] =>
+                            [settlement] =>
+                            [planning_structure_fias_id] =>
+                            [planning_structure_kladr_id] =>
+                            [planning_structure_with_type] =>
+                            [planning_structure_type] =>
+                            [planning_structure_type_full] =>
+                            [planning_structure] =>
+                            [street_fias_id] => 94d0cf51-2820-4409-bbd7-4a7d36f2922b
+                            [street_kladr_id] => 77000000000287900
+                            [street_with_type] => ул 1-я Тверская-Ямская
+                            [street_type] => ул
+                            [street_type_full] => улица
+                            [street] => 1-я Тверская-Ямская
+                            [house_fias_id] =>
+                            [house_kladr_id] =>
+                            [house_type] =>
+                            [house] =>
+                            [block] =>
+                            [building_type] =>
+                            [building] =>
+                            [fias_id] => 94d0cf51-2820-4409-bbd7-4a7d36f2922b
+                            [fias_code] => 7700000000000002879
+                            [fias_level] => 7
+                            [fias_actuality_state] => 0
+                            [kladr_id] => 77000000000287900
+                            [capital_marker] => 0
+                            [okato] => 45286585000
+                            [oktmo] => 45382000
+                            [cadastral_number] =>
+                            [tax_office] => 7710
+                            [tax_office_legal] => 7710
+                            [history_values] => Array
+                                (
+                                    [0] => ул Тверская-Ямская 1-я
+                                )
+
+                            [source] =>
+                            [qc] =>
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [value] => Тверская обл, Калининский р-н, тер автодорога Москва-Санкт-Перербург, ул 153-й км
+                    [unrestricted_value] => 170530, Тверская обл, Калининский р-н, тер автодорога Москва-Санкт-Перербург, ул 153-й км
+                    [data] => Array
+                        (
+                            [postal_code] => 170530
+                            [region_fias_id] => 61723327-1c20-42fe-8dfa-402638d9b396
+                            [region_kladr_id] => 6900000000000
+                            [region_with_type] => Тверская обл
+                            [region_type] => обл
+                            [region_type_full] => область
+                            [region] => Тверская
+                            [area_fias_id] => df5569f0-3033-423a-89cd-d48cd95e14f3
+                            [area_kladr_id] => 6900100000000
+                            [area_with_type] => Калининский р-н
+                            [area_type] => р-н
+                            [area_type_full] => район
+                            [area] => Калининский
+                            [city_fias_id] =>
+                            [city_kladr_id] =>
+                            [city_with_type] =>
+                            [city_type] =>
+                            [city_type_full] =>
+                            [city] =>
+                            [city_district_fias_id] =>
+                            [city_district_kladr_id] =>
+                            [city_district_with_type] =>
+                            [city_district_type] =>
+                            [city_district_type_full] =>
+                            [city_district] =>
+                            [settlement_fias_id] =>
+                            [settlement_kladr_id] =>
+                            [settlement_with_type] =>
+                            [settlement_type] =>
+                            [settlement_type_full] =>
+                            [settlement] =>
+                            [planning_structure_fias_id] => 04f55d8a-e645-4d6e-820c-762f298f0eef
+                            [planning_structure_kladr_id] => 69001000000006900
+                            [planning_structure_with_type] => тер автодорога Москва-Санкт-Перербург
+                            [planning_structure_type] => тер
+                            [planning_structure_type_full] => территория
+                            [planning_structure] => автодорога Москва-Санкт-Перербург
+                            [street_fias_id] => 293bad0a-fe34-4fb3-b936-1d873035bf4d
+                            [street_kladr_id] => 69001000000007000
+                            [street_with_type] => ул 153-й км
+                            [street_type] => ул
+                            [street_type_full] => улица
+                            [street] => 153-й км
+                            [house_fias_id] =>
+                            [house_kladr_id] =>
+                            [house_type] =>
+                            [house] =>
+                            [block] =>
+                            [building_type] =>
+                            [building] =>
+                            [fias_id] => 293bad0a-fe34-4fb3-b936-1d873035bf4d
+                            [fias_code] => 6900100000000690070
+                            [fias_level] => 7
+                            [fias_actuality_state] => 0
+                            [kladr_id] => 69001000000007000
+                            [capital_marker] => 4
+                            [okato] => 28220882014
+                            [oktmo] => 28620482161
+                            [cadastral_number] =>
+                            [tax_office] => 6949
+                            [tax_office_legal] => 6949
+                            [history_values] =>
+                            [source] =>
+                            [qc] =>
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [value] => Тверская обл, Калининский р-н, тер автодорога Москва - Санкт-Петербург, ул 165-й километр
+                    [unrestricted_value] => 170540, Тверская обл, Калининский р-н, тер автодорога Москва - Санкт-Петербург, ул 165-й километр
+                    [data] => Array
+                        (
+                            [postal_code] => 170540
+                            [region_fias_id] => 61723327-1c20-42fe-8dfa-402638d9b396
+                            [region_kladr_id] => 6900000000000
+                            [region_with_type] => Тверская обл
+                            [region_type] => обл
+                            [region_type_full] => область
+                            [region] => Тверская
+                            [area_fias_id] => df5569f0-3033-423a-89cd-d48cd95e14f3
+                            [area_kladr_id] => 6900100000000
+                            [area_with_type] => Калининский р-н
+                            [area_type] => р-н
+                            [area_type_full] => район
+                            [area] => Калининский
+                            [city_fias_id] =>
+                            [city_kladr_id] =>
+                            [city_with_type] =>
+                            [city_type] =>
+                            [city_type_full] =>
+                            [city] =>
+                            [city_district_fias_id] =>
+                            [city_district_kladr_id] =>
+                            [city_district_with_type] =>
+                            [city_district_type] =>
+                            [city_district_type_full] =>
+                            [city_district] =>
+                            [settlement_fias_id] =>
+                            [settlement_kladr_id] =>
+                            [settlement_with_type] =>
+                            [settlement_type] =>
+                            [settlement_type_full] =>
+                            [settlement] =>
+                            [planning_structure_fias_id] => 6f8c4a65-2858-41dd-802e-27db7e633f35
+                            [planning_structure_kladr_id] => 69001000000006700
+                            [planning_structure_with_type] => тер автодорога Москва - Санкт-Петербург
+                            [planning_structure_type] => тер
+                            [planning_structure_type_full] => территория
+                            [planning_structure] => автодорога Москва - Санкт-Петербург
+                            [street_fias_id] => 5c32e74f-8be5-408b-ad02-6f499b759302
+                            [street_kladr_id] => 69001000000010800
+                            [street_with_type] => ул 165-й километр
+                            [street_type] => ул
+                            [street_type_full] => улица
+                            [street] => 165-й километр
+                            [house_fias_id] =>
+                            [house_kladr_id] =>
+                            [house_type] =>
+                            [house] =>
+                            [block] =>
+                            [building_type] =>
+                            [building] =>
+                            [fias_id] => 5c32e74f-8be5-408b-ad02-6f499b759302
+                            [fias_code] => 6900100000000670108
+                            [fias_level] => 7
+                            [fias_actuality_state] => 0
+                            [kladr_id] => 69001000000010800
+                            [capital_marker] => 4
+                            [okato] => 28220808034
+                            [oktmo] => 28620408266
+                            [cadastral_number] =>
+                            [tax_office] => 6949
+                            [tax_office_legal] => 6949
+                            [history_values] =>
+                            [source] =>
+                            [qc] =>
+                        )
+
+                )
+
+        )
+
+)
